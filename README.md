@@ -10,7 +10,7 @@ Web Developer
 
 I love to code.
 
-* 🌍  I'm based in INDIA
+* 🌍  I'm based in India
 * ✉️  You can contact me at [monilpatil342@gmail.com](mailto:monilpatil342@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on many projects
